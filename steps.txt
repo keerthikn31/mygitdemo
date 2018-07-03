@@ -1,0 +1,14 @@
+nano filename//to create a file
+
+ctrl+O       //to save
+
+ctrl + X     //to exit
+
+git add filename  // to add file to git
+
+git commit -m "description " //to commit changes in git
+
+git remote add origin url //to link the directory with git repository
+
+git push -u origin master // to push the changes to master
+
